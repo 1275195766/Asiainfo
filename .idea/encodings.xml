@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/iop区域边界/Getairtportname.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop区域边界/getpoiboundary.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop区域边界/getpoiboundary_gd.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop区域边界/test/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop区域边界/喀什地区.csv" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

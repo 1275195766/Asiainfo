@@ -1,3 +1,5 @@
+import time
+
 import docx
 import pandas as pd
 import random
@@ -93,7 +95,9 @@ i=0
 n=0
 while True:
     # print('开始写入')
+
     try:
+        s = time.time()
         if doc.paragraphs[i].style.name=='Heading 3':
             head3_text = doc.paragraphs[i].text
 
@@ -117,7 +121,7 @@ while True:
 
                 try:
                     if doc.paragraphs[j].text=='功能描述':
-                        print('功能描述')
+                        # print('功能描述')
                         doc.paragraphs[j + 1].insert_paragraph_before(text=df.loc[df.客户需求 == para_text, '功能过程'].values[0], style=None)
                     elif doc.paragraphs[j].text=='外部信息':
                         doc.paragraphs[j + 1].insert_paragraph_before(text='用户访问{0}{1}\n{2}{3}'.format(A1[n],A2[n],B1[n],B2[n]),style=None)
@@ -164,6 +168,7 @@ while True:
                 finally:
 
                     j+=1
+
                 pass
         # doc.save(r'F:\pythonPrj\Asiainfo\word\规格1.docx')
 
@@ -178,6 +183,8 @@ while True:
             i += 1
             # print('i:',i)
         pass
+        e = time.time()
+        print('time', e - s)
     except BaseException as e:
         print('外层循环',e)
         with open(r'F:\pythonPrj\Asiainfo\word\规格1.log','a+') as w:

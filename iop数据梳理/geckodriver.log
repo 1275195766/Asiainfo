@@ -1,0 +1,842 @@
+1600153660788	geckodriver	INFO	Listening on 127.0.0.1:60266
+1600153663909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileT88LDd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600153667128	Marionette	INFO	Listening on port 60279
+1600153667585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600153701529	Marionette	INFO	Stopped listening on port 60279
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600153703005	geckodriver	INFO	Listening on 127.0.0.1:60371
+1600153706049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileWp8n4g"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600153709746	Marionette	INFO	Listening on port 60383
+1600153710232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600153787782	Marionette	INFO	Stopped listening on port 60383
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600153789203	geckodriver	INFO	Listening on 127.0.0.1:60543
+1600153792269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileDv8Jq7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600153795722	Marionette	INFO	Listening on port 60556
+1600153795968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600153855684	Marionette	INFO	Stopped listening on port 60556
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600153856973	geckodriver	INFO	Listening on 127.0.0.1:60691
+1600153860024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileEqdCOG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600153863464	Marionette	INFO	Listening on port 60702
+1600153863720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+JavaScript error: http://gaotie.huochepiao.com/js/ISCity.js, line 196: TypeError: curObj is null
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600153894231	Marionette	INFO	Stopped listening on port 60702
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600153895514	geckodriver	INFO	Listening on 127.0.0.1:60808
+1600153898647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofile84W6D2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600153902309	Marionette	INFO	Listening on port 60820
+1600153902333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600153943235	geckodriver	INFO	Listening on 127.0.0.1:60972
+1600153946311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileYcDaZR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600153950139	Marionette	INFO	Listening on port 60986
+1600153950505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600154612274	geckodriver	INFO	Listening on 127.0.0.1:62293
+1600154615330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileLxOLhj"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600154619423	Marionette	INFO	Listening on port 62306
+1600154619531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600154621532	Marionette	INFO	Stopped listening on port 62306
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 16976, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600154634702	geckodriver	INFO	Listening on 127.0.0.1:62374
+1600154637753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileAvLYDr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600154641137	Marionette	INFO	Listening on port 62386
+1600154641457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600154642822	Marionette	INFO	Stopped listening on port 62386
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: services.settings: main/messaging-experiments sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 198: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavHistoryService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 928: Error: Connection is not open.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600154710447	geckodriver	INFO	Listening on 127.0.0.1:62530
+1600154713491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofile505wBW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600154716782	Marionette	INFO	Listening on port 62548
+1600154717188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600154729288	Marionette	INFO	Stopped listening on port 62548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600154898911	geckodriver	INFO	Listening on 127.0.0.1:62873
+1600154901944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofile6kQypV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600154906100	Marionette	INFO	Listening on port 62885
+1600154906134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600155567286	geckodriver	INFO	Listening on 127.0.0.1:63865
+1600155570411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileoaLi6p"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600155574449	Marionette	INFO	Listening on port 63876
+1600155574597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600155657746	geckodriver	INFO	Listening on 127.0.0.1:64045
+1600155660803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilegSdBJU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600155664551	Marionette	INFO	Listening on port 64058
+1600155664992	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16288, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600155705014	Marionette	INFO	Stopped listening on port 64058
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600155710098	geckodriver	INFO	Listening on 127.0.0.1:64195
+1600155713140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileNd7egE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600155716813	Marionette	INFO	Listening on port 64206
+1600155716824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600155755438	geckodriver	INFO	Listening on 127.0.0.1:64314
+1600155758577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileytH09R"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600155762343	Marionette	INFO	Listening on port 64327
+1600155762763	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600155832498	geckodriver	INFO	Listening on 127.0.0.1:64471
+1600155835588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileXURlPn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600155839473	Marionette	INFO	Listening on port 64483
+1600155839773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600155889303	geckodriver	INFO	Listening on 127.0.0.1:64599
+1600155892355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilea6W0as"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600155895876	Marionette	INFO	Listening on port 64611
+1600155896021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600155902012	Marionette	INFO	Stopped listening on port 64611
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600155921305	geckodriver	INFO	Listening on 127.0.0.1:64700
+1600155924354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilew5pQOg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600155927555	Marionette	INFO	Listening on port 64721
+1600155928037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600155944316	Marionette	INFO	Stopped listening on port 64721
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600155994359	geckodriver	INFO	Listening on 127.0.0.1:64882
+1600155997399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileZyw1vF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600156000505	Marionette	INFO	Listening on port 64893
+1600156000573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600156007145	Marionette	INFO	Stopped listening on port 64893
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600156135631	geckodriver	INFO	Listening on 127.0.0.1:65137
+1600156138703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofile4gK2HP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600156141932	Marionette	INFO	Listening on port 65148
+1600156142394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600156668893	Marionette	INFO	Stopped listening on port 65148
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600157172041	geckodriver	INFO	Listening on 127.0.0.1:50513
+1600157175084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofile4vFgwt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600157179027	Marionette	INFO	Listening on port 50525
+1600157179263	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1600157245714	geckodriver	INFO	Listening on 127.0.0.1:50670
+1600157248771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilesybhiH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600157252104	Marionette	INFO	Listening on port 50681
+1600157252471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600157395761	geckodriver	INFO	Listening on 127.0.0.1:50961
+1600157398815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileOzt76a"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600157402482	Marionette	INFO	Listening on port 50974
+1600157402980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1600157443113	Marionette	INFO	Stopped listening on port 50974
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600158942473	geckodriver	INFO	Listening on 127.0.0.1:52922
+1600158945509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilekTnypP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600158948917	Marionette	INFO	Listening on port 52932
+1600158949190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600159065787	Marionette	INFO	Stopped listening on port 52932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600327247349	geckodriver	INFO	Listening on 127.0.0.1:50282
+1600327250348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileDCjWWz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600327254292	Marionette	INFO	Listening on port 50297
+1600327254655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/jcjm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=e69683efb58b7cf1f67753725acd88e3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327258308&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x775&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327258&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327258&qn=547be86b9e7fecd8&tt=1600327258298.14.416.417, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/jcjm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=e69683efb58b7cf1f67753725acd88e3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327258308&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x775&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327258&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327258&qn=547be86b9e7fecd8&tt=1600327258298.14.416.417, line 137: unreachable code after return statement
+[Child 15116, MediaDecoderStateMachine #1] WARNING: Decoder=1c716f43000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600327318808	Marionette	INFO	Stopped listening on port 50297
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600327326694	geckodriver	INFO	Listening on 127.0.0.1:50525
+1600327329765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileuzNAYy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600327333497	Marionette	INFO	Listening on port 50538
+1600327333956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/kcrm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=72832771164e0553592acec8bc0a5634&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327337245&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=4&pcs=971x775&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327337&prot=2&rw=792&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327337&qn=efeac8bbce63b0fb&tt=1600327337236.13.494.495, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/kcrm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=72832771164e0553592acec8bc0a5634&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327337245&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=4&pcs=971x775&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327337&prot=2&rw=792&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327337&qn=efeac8bbce63b0fb&tt=1600327337236.13.494.495, line 137: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15732, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600327347182	Marionette	INFO	Stopped listening on port 50538
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600327425399	geckodriver	INFO	Listening on 127.0.0.1:50834
+1600327428464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileG8ET22"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600327432262	Marionette	INFO	Listening on port 50847
+1600327432658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/acdm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=283f736e3f647101daa0687a348b9279&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327435057&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=871x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327435&prot=2&rw=888&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327435&qn=d864613a1f6335dc&tt=1600327435048.12.429.431, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/acdm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=283f736e3f647101daa0687a348b9279&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327435057&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=871x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327435&prot=2&rw=888&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327435&qn=d864613a1f6335dc&tt=1600327435048.12.429.431, line 137: unreachable code after return statement
+1600327445070	Marionette	INFO	Stopped listening on port 50847
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600327458103	geckodriver	INFO	Listening on 127.0.0.1:50975
+1600327461165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilecVIpug"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600327464910	Marionette	INFO	Listening on port 50989
+1600327465351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://pos.baidu.com/zcum?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=172ba868d6731599bbc17db74c873ed8&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327474131&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=871x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327474&prot=2&rw=888&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327474&qn=89e44629eb981675&tt=1600327474122.15.318.323, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/zcum?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=172ba868d6731599bbc17db74c873ed8&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327474131&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=871x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327474&prot=2&rw=888&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327474&qn=89e44629eb981675&tt=1600327474122.15.318.323, line 137: unreachable code after return statement
+1600327476233	Marionette	INFO	Stopped listening on port 50989
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600327498110	geckodriver	INFO	Listening on 127.0.0.1:51129
+1600327501158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileWl8uqG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600327504305	Marionette	INFO	Listening on port 51142
+1600327504331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/acem?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=4c2a51fc8e360b66f447dff1233d3f83&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327506977&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1139x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327506&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327507&qn=52b9ab128615687e&tt=1600327506966.14.228.229, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/acem?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=4c2a51fc8e360b66f447dff1233d3f83&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327506977&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1139x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327506&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327507&qn=52b9ab128615687e&tt=1600327506966.14.228.229, line 137: unreachable code after return statement
+1600327515387	Marionette	INFO	Stopped listening on port 51142
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16032, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600327536218	geckodriver	INFO	Listening on 127.0.0.1:51276
+1600327539254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileRxcKv6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600327543137	Marionette	INFO	Listening on port 51288
+1600327543419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/icqm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=d207596e97ba080b362c4df9c249b59f&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327553960&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327553&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327554&qn=e604c7307b051a04&tt=1600327553952.13.656.656, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/icqm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=d207596e97ba080b362c4df9c249b59f&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327553960&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327553&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327554&qn=e604c7307b051a04&tt=1600327553952.13.656.656, line 137: unreachable code after return statement
+[Child 14372, MediaDecoderStateMachine #1] WARNING: Decoder=200ae5fbc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6224, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600327781865	Marionette	INFO	Stopped listening on port 51288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1997633&dc=3&exps=110261,110254,110011&psi=86b54588fc86d33f2cbb985218dd389f&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327599930&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327599&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327600&qn=38fefbfb9acafacf&tt=1600327599919.16.341.343, line 137: unreachable code after return statement
+1600327603376	Marionette	INFO	Stopped listening on port 51473
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600327739678	geckodriver	INFO	Listening on 127.0.0.1:51858
+1600327742729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofile6VmPzD"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600327746301	Marionette	INFO	Listening on port 51870
+1600327746412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/pccm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=2cd034483f73454995b26936f2c06153&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327749028&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327749&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327749&qn=b85d9934b39acb0e&tt=1600327749013.19.304.306, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/pccm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=2cd034483f73454995b26936f2c06153&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327749028&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327749&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327749&qn=b85d9934b39acb0e&tt=1600327749013.19.304.306, line 137: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 10540, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1600327772933	Marionette	INFO	Stopped listening on port 51870
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1600327776070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileH6Y8RE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600327779765	Marionette	INFO	Listening on port 52029
+1600327780264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/dcvm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=944aa0649e2f57b91bb938d3ca20ec11&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327785266&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1139x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327785&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327785&qn=fd2666f8eaa8a3b6&tt=1600327785257.14.222.225, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/dcvm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=944aa0649e2f57b91bb938d3ca20ec11&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327785266&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1139x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327785&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327785&qn=fd2666f8eaa8a3b6&tt=1600327785257.14.222.225, line 137: unreachable code after return statement
+[Child 16512, MediaDecoderStateMachine #1] WARNING: Decoder=25f06f62000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 16512, MediaDecoderStateMachine #1] WARNING: Decoder=25f0044b800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600327949320	Marionette	INFO	Stopped listening on port 52029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+A_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327872&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327873&qn=bfbca824d754672f&tt=1600327872695.13.7263.7265, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/zcrm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=d8ef75c4dd267401035cec0a0a606403&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327872705&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327872&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327873&qn=bfbca824d754672f&tt=1600327872695.13.7263.7265, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/zcrm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=d8ef75c4dd267401035cec0a0a606403&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327872705&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327872&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327873&qn=bfbca824d754672f&tt=1600327872695.13.7263.7265, line 137: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 12988, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1600327946930	Marionette	INFO	Stopped listening on port 52303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600327956075	geckodriver	INFO	Listening on 127.0.0.1:52570
+1600327959136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilem9Ju0p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600327962455	Marionette	INFO	Listening on port 52585
+1600327962836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/bcom?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=623d03aa9709f11555328647368885e0&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327972040&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327972&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327972&qn=9fd3266b369d0df2&tt=1600327972032.12.11278.11280, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/bcom?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=623d03aa9709f11555328647368885e0&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600327972040&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600327972&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600327972&qn=9fd3266b369d0df2&tt=1600327972032.12.11278.11280, line 137: unreachable code after return statement
+1600327991978	Marionette	INFO	Stopped listening on port 52585
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600328033960	geckodriver	INFO	Listening on 127.0.0.1:52794
+1600328037040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileNyBWvD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328040770	Marionette	INFO	Listening on port 52809
+1600328041440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/vczm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=1f32e9a5b79f73b1d590f86f8d21a780&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328043657&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328043&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328044&qn=04c03586dbf97a32&tt=1600328043641.21.224.225, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/vczm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=1f32e9a5b79f73b1d590f86f8d21a780&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328043657&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328043&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328044&qn=04c03586dbf97a32&tt=1600328043641.21.224.225, line 137: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1600328054378	Marionette	INFO	Stopped listening on port 52809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600328054753	geckodriver	INFO	Listening on 127.0.0.1:52930
+1600328057825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileAhpdp1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328062092	Marionette	INFO	Listening on port 52944
+1600328062127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/nczm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=f89b95736dd307d95dcf12e5bef57a62&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328064146&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1139x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328064&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328064&qn=d13356013b343673&tt=1600328064139.11.331.332, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/nczm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=f89b95736dd307d95dcf12e5bef57a62&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328064146&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1139x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328064&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328064&qn=d13356013b343673&tt=1600328064139.11.331.332, line 137: unreachable code after return statement
+1600328065125	Marionette	INFO	Stopped listening on port 52944
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 123: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600328107079	geckodriver	INFO	Listening on 127.0.0.1:53105
+1600328110156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilertXUeD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328114024	Marionette	INFO	Listening on port 53119
+1600328114355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/jclm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=a0031a4edb98ac0553edabd1561f9eba&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328117153&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328117&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328117&qn=2fc8984fa9e74dab&tt=1600328117140.16.265.266, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/jclm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=a0031a4edb98ac0553edabd1561f9eba&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328117153&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328117&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328117&qn=2fc8984fa9e74dab&tt=1600328117140.16.265.266, line 137: unreachable code after return statement
+1600328127279	Marionette	INFO	Stopped listening on port 53119
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600328228768	geckodriver	INFO	Listening on 127.0.0.1:53396
+1600328231812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilez57LEV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328235433	Marionette	INFO	Listening on port 53410
+1600328235504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/kcvm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=deb28f1ab2d08b66c2bff08eb0df731a&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328242712&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328242&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328243&qn=34fa90e89897d101&tt=1600328242699.19.239.241, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/kcvm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=deb28f1ab2d08b66c2bff08eb0df731a&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328242712&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328242&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328243&qn=34fa90e89897d101&tt=1600328242699.19.239.241, line 137: unreachable code after return statement
+1600328253375	Marionette	INFO	Stopped listening on port 53410
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5572, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600328353742	geckodriver	INFO	Listening on 127.0.0.1:53726
+1600328356798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileFQ8ZPp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328360293	Marionette	INFO	Listening on port 53740
+1600328360475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://pos.baidu.com/gcbm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=3ade5d7caff4f91c9ec9746f9ccb3c29&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328362843&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328362&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328363&qn=c60ba1db870dc44c&tt=1600328362835.13.7251.7251, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/gcbm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=3ade5d7caff4f91c9ec9746f9ccb3c29&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328362843&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328362&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328363&qn=c60ba1db870dc44c&tt=1600328362835.13.7251.7251, line 137: unreachable code after return statement
+1600328385799	Marionette	INFO	Stopped listening on port 53740
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600328605788	geckodriver	INFO	Listening on 127.0.0.1:54258
+1600328608846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileqlB3zc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600328612454	Marionette	INFO	Listening on port 54271
+1600328612531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/lchm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=a9aee6a6cafe3cedfdabce1db842a39f&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328617705&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328617&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328618&qn=7e2f9fced6049be1&tt=1600328617697.15.196.198, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/lchm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=a9aee6a6cafe3cedfdabce1db842a39f&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328617705&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328617&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328618&qn=7e2f9fced6049be1&tt=1600328617697.15.196.198, line 137: unreachable code after return statement
+1600328629959	Marionette	INFO	Stopped listening on port 54271
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600328765134	geckodriver	INFO	Listening on 127.0.0.1:54631
+1600328768209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileD6Sg1Z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328772067	Marionette	INFO	Listening on port 54646
+1600328772369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/dcbm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=40f58b1b25d27883246420ff5db3cb6d&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328777210&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328777&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328777&qn=5be299e144e6d0f3&tt=1600328777201.12.1282.1283, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/dcbm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=40f58b1b25d27883246420ff5db3cb6d&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328777210&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328777&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328777&qn=5be299e144e6d0f3&tt=1600328777201.12.1282.1283, line 137: unreachable code after return statement
+1600328807917	geckodriver	INFO	Listening on 127.0.0.1:54789
+1600328811007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileyHEMm2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328814597	Marionette	INFO	Listening on port 54802
+1600328814718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/bcfm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=c184d1bee6d4daabca94ee11ce4b29a9&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328816961&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328816&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328817&qn=718e1a82d5dc485b&tt=1600328816939.26.1291.1292, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/bcfm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=c184d1bee6d4daabca94ee11ce4b29a9&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328816961&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328816&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328817&qn=718e1a82d5dc485b&tt=1600328816939.26.1291.1292, line 137: unreachable code after return statement
+[Child 10076, MediaDecoderStateMachine #1] WARNING: Decoder=22af4e54000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 10076, MediaDecoderStateMachine #1] WARNING: Decoder=22af4e54000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 10076, MediaDecoderStateMachine #1] WARNING: Decoder=22af4e54000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1600328933655	geckodriver	INFO	Listening on 127.0.0.1:55108
+1600328936708	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilelEoSgn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328940396	Marionette	INFO	Listening on port 55120
+1600328940414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/tcam?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=ed574909ebbf70bd6916b3649ae68034&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328942757&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328942&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328943&qn=75c7af4a34c7ed3b&tt=1600328942747.14.11284.11286, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/tcam?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=ed574909ebbf70bd6916b3649ae68034&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328942757&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33492&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328942&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328943&qn=75c7af4a34c7ed3b&tt=1600328942747.14.11284.11286, line 137: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI71600328978783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--mIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessaJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600328982664	Marionette	INFO	Listening on port 55277
+1600328983040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://pos.baidu.com/gcom?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=9c115f62864e416c039cea80b9e3072e&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328985149&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328985&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328985&qn=5d96cb348b3599a0&tt=1600328985133.21.225.226, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/gcom?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=9c115f62864e416c039cea80b9e3072e&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1600328985149&ti=%E5%9B%BD%E5%AE%B6AAA%E7%BA%A7%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0911&dbv=0&drs=3&pcs=771x875&pss=1189x33358&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1600328985&prot=2&rw=788&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2F%25E5%259B%25BD%25E5%25AE%25B6AAA%25E7%25BA%25A7%25E6%2597%2585%25E6%25B8%25B8%25E6%2599%25AF%25E5%258C%25BA%2F1461119&ecd=1&uc=1920x1040&pis=-1x-1&sr=1920x1080&tcn=1600328985&qn=5d96cb348b3599a0&tt=1600328985133.21.225.226, line 137: unreachable code after return statement
+1600328999069	Marionette	INFO	Stopped listening on port 55277
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 5476, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600335780164	geckodriver	INFO	Listening on 127.0.0.1:49179
+1600335783191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileH3Qo4s"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600335786779	Marionette	INFO	Listening on port 49191
+1600335786859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600335794999	Marionette	INFO	Stopped listening on port 49191
+console.error: services.settings: 
+  main/messaging-experiments Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 14084, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600335863662	geckodriver	INFO	Listening on 127.0.0.1:49333
+1600335866712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilehs9lsU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600335870201	Marionette	INFO	Listening on port 49345
+1600335870399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600335876715	Marionette	INFO	Stopped listening on port 49345
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600335891242	geckodriver	INFO	Listening on 127.0.0.1:49414
+1600335894298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileTWjxY8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600335897880	Marionette	INFO	Listening on port 49426
+1600335898011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600335910159	Marionette	INFO	Stopped listening on port 49426
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600336001524	geckodriver	INFO	Listening on 127.0.0.1:49615
+1600336004567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileK3bVEA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600336009295	geckodriver	INFO	Listening on 127.0.0.1:49647
+1600336012372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileHFueFo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600336016415	Marionette	INFO	Listening on port 49659
+1600336016550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600345056480	Marionette	INFO	Stopped listening on port 49659
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

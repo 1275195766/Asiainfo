@@ -15,8 +15,11 @@ def get_boundary(key_word,city):
     res=requests.get(url=api_url,params=param,headers=header)
     # print(res.text)
     try:
+        # boundary_param={
+        #
+        # }
         uid=json.loads(res.text)['results'][0]['uid']
-        boundary_url='https://map.baidu.com/?uid={0}&ugc_type=3&ugc_ver=1&qt=detailConInfo&device_ratio=1&compat=1&t=1598253753780&auth=%40dDDT8gaM9K16734SbH%40VEG%3DM9233D5CuxHTRzHBNHBtzljPyBYYxy1uVt1GgvPUDZYOYIZuBtGfyMx7w4kkfkD%3DCPWv3GuzztQZ3wWvUvhgMZSguxzBEHLNRTVtlEeLZNz1%40Db17dDFC8zv7u%40ZPuVteuxxtoqFmqE25%3DZI5I3251swVVH3W2GllhIMX'.format(uid)
+        boundary_url='https://map.baidu.com/?uid={0}&qt=detailConInfo&compat=1&auth=EabZWQe=FFYV@LCKKAwS020EvJzvGYGPuxHTTNxRVRRtfy9GUIsxAwwi04vy77u1GgvPUDZYOYIZuVt1cv3uVtGccZcuVtPWv3GuztQZ3wWvUvhgMZSguxzBEHLNRTVtcEWe1GD8zv7u@ZPuVteuxtf0wd0vyIUUOyS7CCuquTTGVFxcc@AZ'.format(uid)
         boundary_res=requests.get(url=boundary_url,headers=header)
         # print(boundary_res.text)
         # if 'ext' not in boundary_res.text:
@@ -43,4 +46,4 @@ def get_boundary(key_word,city):
     except BaseException as e :
         print(e)
 if __name__=='__main__':
-    get_boundary('上海金山水上机场','上海市')
+    get_boundary('呼伦贝尔市满洲里市中俄边境旅游区','内蒙古自治区')

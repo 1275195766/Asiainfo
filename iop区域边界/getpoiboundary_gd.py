@@ -42,24 +42,24 @@ def get_boundary(key_word,city):
     boundary_url='https://www.amap.com/detail/get/detail?id={0}'.format(uid)
     boundary_res=session.get(url=boundary_url,headers=header)
     print(boundary_res.text)
-    # original_crd=json.loads(boundary_res.text)['data']['spec']['mining_shape']['shape']
-    # temp=original_crd.split('|')[2][2:-1].split(',')
-    # original_crd_list=original_crd.split(';')
-    # crd_res_list=[]
-    # for i in range(0,len(original_crd_list),50):
-    #     s=';'.join(original_crd_list[i:i+50])
-    #
-    #     conversion_url='http://api.map.baidu.com/geoconv/v1/?coords={0}&from=6&to=5&ak=LyIM4GPhDU9cMnA6G3sBW4GDrdMock64'.format(s)
-    #     conversion_res=requests.get(conversion_url,headers=header)
-    #     zb=json.loads(conversion_res.text)
-    #
-    #     for i in zb['result']:
-    #         crd_res_list.append(str(i['x'])+','+str(i['y']))
-    # boundary='\n'.join(crd_res_list)
-    # print(boundary)
-    #
-    # return boundary
+    original_crd=json.loads(boundary_res.text)['data']['spec']['mining_shape']['shape']
+    temp=original_crd.split('|')[2][2:-1].split(',')
+    original_crd_list=original_crd.split(';')
+    crd_res_list=[]
+    for i in range(0,len(original_crd_list),50):
+        s=';'.join(original_crd_list[i:i+50])
+
+        conversion_url='http://api.map.baidu.com/geoconv/v1/?coords={0}&from=6&to=5&ak=LyIM4GPhDU9cMnA6G3sBW4GDrdMock64'.format(s)
+        conversion_res=requests.get(conversion_url,headers=header)
+        zb=json.loads(conversion_res.text)
+
+        for i in zb['result']:
+            crd_res_list.append(str(i['x'])+','+str(i['y']))
+    boundary='\n'.join(crd_res_list)
+    print(boundary)
+
+    return boundary
 if __name__=='__main__':
-    d={'北京市': ['北京首都国际机场', '北京大兴国际机场', '北京南苑机场(已关闭)', '北京海淀机场', '定陵机场', '北京首都国际机场3号航站楼C区', '北京八达岭机场', '北京平谷金海湖机场', '北京密云穆家峪机场', '北京首都国际机场3号航站楼D区', '北京首都国际机场3号航站楼E区']}
-    for i in d.keys():
-        get_boundary(i,'北京市')
+    # d={'北京市': ['北京首都国际机场', '北京大兴国际机场', '北京南苑机场(已关闭)', '北京海淀机场', '定陵机场', '北京首都国际机场3号航站楼C区', '北京八达岭机场', '北京平谷金海湖机场', '北京密云穆家峪机场', '北京首都国际机场3号航站楼D区', '北京首都国际机场3号航站楼E区']}
+    # for i in d.keys():
+    get_boundary('重庆黔江武陵山机场','重庆市')

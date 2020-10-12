@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/bank_name/tianjin_bankname.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iop区域边界/Getairtportname.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iop区域边界/getpoiboundary.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iop区域边界/getpoiboundary_gd.py" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/iop区域边界/test/test.py" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/iop区域边界/喀什地区.csv" charset="GBK" />
-    <file url="PROJECT" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/iop区域边界/修改景区id.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop区域边界/工业园区.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop数据梳理/AAA景区.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop数据梳理/chezhan.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop数据梳理/duibi.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop数据梳理/pd.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop数据梳理/select_gt.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop数据梳理/test3.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop数据梳理/update_gt.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/iop数据梳理/火车站归属地.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xl.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/归属地核查/地级提取.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

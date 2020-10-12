@@ -1,0 +1,342 @@
+1600067498238	geckodriver	INFO	Listening on 127.0.0.1:53715
+1600067501372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileE3zsI8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600067505885	Marionette	INFO	Listening on port 53726
+1600067506243	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+[Child 5108, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1600067551884	Marionette	INFO	Stopped listening on port 53726
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600067599204	geckodriver	INFO	Listening on 127.0.0.1:53911
+1600067602266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileNhM1pN"
+1600067618975	geckodriver	INFO	Listening on 127.0.0.1:53972
+1600067622024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilepi7XDO"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600067625895	Marionette	INFO	Listening on port 53983
+1600067626223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.baidu.com"
+JavaScript error: , line 0: AbortError: The operation was aborted. 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1600067787904	Marionette	INFO	Stopped listening on port 53983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600067817627	geckodriver	INFO	Listening on 127.0.0.1:54254
+1600067820704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileKg1pfq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600067824498	Marionette	INFO	Listening on port 54265
+1600067824947	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.baidu.com"
+1600068067221	Marionette	INFO	Stopped listening on port 54265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600068070498	geckodriver	INFO	Listening on 127.0.0.1:54583
+1600068073558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileuOOSzr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600068076974	Marionette	INFO	Listening on port 54593
+1600068077254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.baidu.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://passport.baidu.com"
+1600068141250	Marionette	INFO	Stopped listening on port 54593
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600068159636	geckodriver	INFO	Listening on 127.0.0.1:54769
+1600068162709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileRjXeRv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600068165969	Marionette	INFO	Listening on port 54780
+1600068166394	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 689))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+1600068217554	Marionette	INFO	Stopped listening on port 54780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600068220393	geckodriver	INFO	Listening on 127.0.0.1:54901
+1600068223453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilenwdAMm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600068227774	Marionette	INFO	Listening on port 54912
+1600068228257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+1600068242490	Marionette	INFO	Stopped listening on port 54912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600134382261	geckodriver	INFO	Listening on 127.0.0.1:51415
+1600134385312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileGRtM9l"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1600134390299	Marionette	INFO	Listening on port 51423
+1600134390716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+1600134419041	Marionette	INFO	Stopped listening on port 51423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600134449634	geckodriver	INFO	Listening on 127.0.0.1:51531
+1600134452677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofiledapagG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600134457085	Marionette	INFO	Listening on port 51540
+1600134457469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+1600134506329	Marionette	INFO	Stopped listening on port 51540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600134508335	geckodriver	INFO	Listening on 127.0.0.1:51653
+1600134511428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileEkf6U3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600134515616	Marionette	INFO	Listening on port 51661
+1600134515707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+1600134621447	geckodriver	INFO	Listening on 127.0.0.1:51783
+1600134624509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileOKiT46"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600134628555	Marionette	INFO	Listening on port 51791
+1600134628702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+1600134686182	geckodriver	INFO	Listening on 127.0.0.1:51900
+1600134689232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileutk2Be"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600134692753	Marionette	INFO	Listening on port 51908
+1600134692929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.aa963.com/inc/mb2/css/chd.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1600134728394	Marionette	INFO	Stopped listening on port 51908
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600134768125	geckodriver	INFO	Listening on 127.0.0.1:52076
+1600139153445	geckodriver	INFO	Listening on 127.0.0.1:55807
+1600139156543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileZK6JoZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600139160466	Marionette	INFO	Listening on port 55818
+1600139160741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600139213072	geckodriver	INFO	Listening on 127.0.0.1:55909
+1600139216132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileOuqF4H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600139219793	Marionette	INFO	Listening on port 55920
+1600139219816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600139574204	geckodriver	INFO	Listening on 127.0.0.1:56385
+1600139577244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilelg7LTA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600139580972	Marionette	INFO	Listening on port 56395
+1600139581428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600139688775	geckodriver	INFO	Listening on 127.0.0.1:56594
+1600139691905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileJdH2h2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600139695306	Marionette	INFO	Listening on port 56605
+1600139695595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600139742350	geckodriver	INFO	Listening on 127.0.0.1:56733
+1600139745404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofile39cMPA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600139749394	Marionette	INFO	Listening on port 56744
+1600139749599	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600139944512	geckodriver	INFO	Listening on 127.0.0.1:57043
+1600139947563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileny3UwD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600139951286	Marionette	INFO	Listening on port 57055
+1600139951759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600140047314	geckodriver	INFO	Listening on 127.0.0.1:57241
+1600140050380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileKSHcG0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600140054102	Marionette	INFO	Listening on port 57253
+1600140054568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600140242695	geckodriver	INFO	Listening on 127.0.0.1:57580
+1600140245748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileoBlbu1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600140249275	Marionette	INFO	Listening on port 57593
+1600140249490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600140480632	Marionette	INFO	Stopped listening on port 57593
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600140512283	geckodriver	INFO	Listening on 127.0.0.1:57939
+1600140515331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileO6qXfB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600140518950	Marionette	INFO	Listening on port 57948
+1600140519014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600140542753	Marionette	INFO	Stopped listening on port 57948
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600140618872	geckodriver	INFO	Listening on 127.0.0.1:58118
+1600140621926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofilebNBrH3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600140625797	Marionette	INFO	Listening on port 58129
+1600140626115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600140643605	Marionette	INFO	Stopped listening on port 58129
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600144773753	geckodriver	INFO	Listening on 127.0.0.1:50640
+1600144776793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofileLWYPks"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600144780362	Marionette	INFO	Listening on port 50651
+1600144780478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600144787413	Marionette	INFO	Stopped listening on port 50651
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600145527909	geckodriver	INFO	Listening on 127.0.0.1:51632
+1600145530970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "D:\\UserTemp\\rust_mozprofiledA7uPR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600145534268	Marionette	INFO	Listening on port 51642
+1600145534663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://gaotie.huochepiao.com/js/query.js, line 19: unreachable code after return statement
+1600145542333	Marionette	INFO	Stopped listening on port 51642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
